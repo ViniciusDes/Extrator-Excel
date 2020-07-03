@@ -16,8 +16,8 @@ namespace ConsoleLeitorArquivos
     {
         static void Main(string[] args)
         {
-            var Ext = new ExtratorEmp27();
-            Ext.LerArquivoUnimed();
+            var Ext = new ExtratorEmp11();
+            Ext.LerArquivo();
 
 
         }
